@@ -1,15 +1,10 @@
-# cloud_vm_linux_projects
-Projects in This Repository
+## 📁 Cloud Engineering Projects
 
-AWS IAM + EC2 + S3 Project
-  Designed a secure, role-based AWS environment with IAM, EC2, and S3 services to simulate enterprise cloud migration needs.
+A collection of beginner AWS and Linux projects completed during my cloud bootcamp training.
 
-SaaS, PaaS, IaaS Comparison
-  Explained and compared cloud service models with diagrams and real-world use cases to deepen cloud architecture understanding.
+- IAM + EC2 + S3 Project: Role-based AWS environment setup using groups 
+- Virtualization Comparison: Roles of SaaS, PaaS, and IaaS  
+- Serverless Ticketing System: Scalable AWS architecture using Lambda and DynamoDB and Hybrid Options 
+- Linux VM + CLI Practice: Ubuntu install, Bash scripting, system checks
 
-Train Ticket Booking System (AWS Architecture)
-  Proposed serverless and hybrid AWS architectures using Lambda, DynamoDB, SQS, and ElastiCache to solve high-traffic booking issues.
-
-Linux Ubuntu VM Setup + CLI Project
-  Installed a Linux VM and practiced CLI skills including variables, loops, system commands, scripting, and resource monitoring.
-
+🔗 Created by Eddie Leach | View full files above
