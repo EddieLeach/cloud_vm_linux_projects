@@ -1,4 +1,4 @@
-## 📁 Cloud Engineering Projects
+## 📁 Virtualization and Linux Projects
 
 A collection of beginner AWS and Linux projects completed during my cloud bootcamp training.
 
