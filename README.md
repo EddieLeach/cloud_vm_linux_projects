@@ -1,6 +1,6 @@
 ## 📁 Virtualization and Linux Projects
 
-A collection of beginner AWS and Linux projects completed during my cloud bootcamp training.
+A collection of AWS and Linux projects completed during my cloud bootcamp training.
 
 - IAM + EC2 + S3 Project: Role-based AWS environment setup using groups 
 - Virtualization Comparison: Roles of SaaS, PaaS, and IaaS  
